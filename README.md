@@ -96,6 +96,7 @@
 | **Languages** | TypeScript, JavaScript, Python, HTML5, CSS3, SQL |
 | **Frontend** | Next.js, React, Vue.js, Tailwind CSS, Vite |
 | **Backend & AI** | FastAPI, Node.js, REST APIs, Google Gemini API, ONNX Runtime |
+| **AI Tools & Workflows** | Google Antigravity, Anthropic Claude, OpenAI ChatGPT |
 | **Tools & Cloud** | Git, GitHub Actions, Vercel, Supabase, VS Code, Vitest, Linux |
 
 </div>
