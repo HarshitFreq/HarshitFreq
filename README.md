@@ -109,8 +109,6 @@
 
 ### 💻 Verified Tech Stack
 
-> *Automatically extracted and aggregated from manifest files, configurations, source dependencies, and workflows across all 10 public repositories.*
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,py,java,swift,html,css,postgres,react,nextjs,vue,tailwind,vite,electron,fastapi,nodejs,supabase,docker,githubactions,git,github,vscode,vitest,linux" />
@@ -198,89 +196,6 @@
 
 ---
 
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit-911&show_icons=true&theme=dark&rank_icon=github&count_private=true&hide_border=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-911&layout=compact&theme=dark&hide_border=true&langs_count=8" height="175" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-911&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshit-911&theme=onedark&column=6&margin-w=15&margin-h=15" alt="Trophy Banner" />
-</div>
-
----
-
-### 🔍 Repository Attribution & Technology Audit
-
-<details>
-<summary><strong>📁 Click to expand Repository Contribution Matrix</strong></summary>
-
-<br/>
-
-| Technology / Framework | Contributing Repositories | Usage Context |
-| :--- | :--- | :--- |
-| **Next.js (15 / 16)** | `ShieldSight.ai`, `VibeCheck`, `invoice-genie-final`, `invoice-genie` | Full-stack app router, SSR & API routes |
-| **React (18 / 19)** | `ShieldSight.ai`, `VibeCheck`, `invoice-genie-final`, `outfit-generator`, `invoice-genie` | Component UI state & custom hooks |
-| **Google Gemini SDKs** | `VibeCheck`, `PromptForge.ai`, `invoice-genie-final`, `outfit-generator`, `invoice-genie` | Vision analysis, natural language parsing & multimodal generation |
-| **FastAPI & Pydantic** | `PromptForge.ai` | High-throughput asynchronous Python web backend & schema validation |
-| **Electron & electron-builder** | `outfit-generator` | Cross-platform desktop application packaging |
-| **Supabase & PL/pgSQL** | `outfit-generator` | Backend-as-a-Service, database procedures & storage |
-| **ONNX Runtime Web** | `ShieldSight.ai` | In-browser client-side ML model inference |
-| **Tesseract.js** | `ShieldSight.ai` | Client-side Optical Character Recognition (OCR) |
-| **Vue 3, Pinia & CodeMirror 6** | `FocusAero` | Modular code editor state engine and syntax highlighting |
-| **Tailwind CSS (v3 / v4)** | `ShieldSight.ai`, `VibeCheck`, `invoice-genie-final`, `invoice-genie` | Design systems, glassmorphism & responsive layouts |
-| **Vitest & jsdom** | `ShieldSight.ai` | Unit testing & DOM testing framework |
-| **jsPDF & Resend / Nodemailer** | `invoice-genie-final`, `invoice-genie` | Dynamic PDF generation & SMTP email dispatch |
-
-</details>
-
-<details>
-<summary><strong>🎯 Single-Occurrence Technologies (Specialized Usage)</strong></summary>
-
-<br/>
-
-The following tools were detected in exactly **1 specific repository**, demonstrating domain versatility:
-- **`onnxruntime-web`**: *ShieldSight.ai* (Edge Computer Vision inference)
-- **`tesseract.js`**: *ShieldSight.ai* (Browser OCR text extraction)
-- **Chrome Extension Manifest V3 APIs**: *ShieldSight.ai* (Background workers & content scripts)
-- **FastAPI & Uvicorn**: *PromptForge.ai* (Async Python web server)
-- **Pandas**: *PromptForge.ai* (Data manipulation & prompt benchmark processing)
-- **Electron**: *outfit-generator* (Desktop runtime container)
-- **Supabase JS**: *outfit-generator* (PostgreSQL cloud BaaS client)
-- **Vue.js 3 & Pinia**: *FocusAero* (Reactivity framework & state store)
-- **CodeMirror 6**: *FocusAero* (Browser-based code editor core)
-- **VitePress**: *FocusAero* (Technical documentation builder)
-- **Swift / Xcode**: *harshit-911* (Native iOS/macOS development exposure)
-
-</details>
-
----
-
-### 💡 Recommended Technologies to Learn Next
-
-Based on your current strength in **AI Applications, Next.js, Python Backends, and TypeScript**:
-
-1. 🐳 **Docker & Containerization**: Expand on basic container setups to orchestrate multi-stage Docker builds and Kubernetes environments.
-2. 🐘 **PostgreSQL & Prisma / Drizzle ORM**: Elevate raw SQL/Supabase to type-safe database queries across Next.js and Node.js.
-3. 🦜 **LangChain / LlamaIndex**: Scale beyond raw Gemini API calls into structured RAG pipelines and autonomous AI agent workflows.
-4. 🌲 **Pinecone / Qdrant (Vector Databases)**: Implement vector embeddings and semantic search for AI prompt engines.
-5. ⚡ **Redis / Upstash**: Introduce serverless caching and API rate-limiting for FastAPI and Next.js routes.
-6. ☁️ **AWS (S3, Lambda) / Cloudflare Workers**: Expand edge compute capabilities beyond Vercel deployment.
-7. 🤖 **PyTorch / HuggingFace Transformers**: Fine-tune custom vision and language models alongside client-side ONNX Runtime Web.
-
----
-
 ### 📫 Connect With Me
 
 <p align="center">
@@ -293,8 +208,4 @@ Based on your current strength in **AI Applications, Next.js, Python Backends, a
   <a href="mailto:contact@harshit.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <sub><i>Crafted with precision based on empirical repository analysis.</i></sub>
 </p>
