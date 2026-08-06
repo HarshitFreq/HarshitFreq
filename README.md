@@ -30,7 +30,7 @@
 - 🔭 **Currently Building**: **[ShieldSight.ai](https://github.com/harshit-911/ShieldSight.ai)** — An AI-powered threat detection browser extension combining ONNX edge models and OCR.
 - ⚡ **Core Focus**: Full-Stack Architecture, AI/LLM Integration (Gemini 2.5 Flash), High-Performance Frontend Systems, & Cross-Platform Desktop/Extension Apps.
 - 🧠 **Tech Mindset**: Clean modular architecture, type-safety end-to-end, dynamic UX with sub-second AI inference.
-- 📫 **Reach Out**: Open to internships, full-stack engineering roles, and AI software projects.
+- 📫 **Reach Out**: Actively seeking Software Engineering & AI Developer Internships.
 
 ---
 
