@@ -107,7 +107,7 @@
 
 ---
 
-### 💻 Verified Tech Stack
+### 💻 Tech Stack I Use
 
 <p align="center">
   <a href="https://skillicons.dev">
