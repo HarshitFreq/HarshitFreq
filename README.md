@@ -41,7 +41,7 @@
         <img src="https://img.shields.io/badge/ONNX_Web-005CED?style=flat-square&logo=onnx&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </p>
-      <p>AI web security extension featuring on-device computer vision models, Tesseract OCR threat inspection, and a Next.js analytics dashboard.</p>
+      <p><strong>What it does:</strong> A browser extension that scans web pages in real-time to protect users from phishing scams and malicious links.</p>
       <p>👉 <a href="https://github.com/harshit-911/ShieldSight.ai"><strong>View Repository</strong></a></p>
     </td>
     <td width="50%" valign="top">
@@ -51,7 +51,7 @@
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white" />
       </p>
-      <p>High-speed web application for audio/video extraction, batch music importing, and media stream processing powered by Next.js API routes.</p>
+      <p><strong>What it does:</strong> A web tool that converts online videos into MP3 audio files and lets users download playlists in bulk.</p>
       <p>👉 <a href="https://github.com/harshit-911/MP3Master"><strong>View Repository</strong></a></p>
     </td>
   </tr>
@@ -63,7 +63,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" />
       </p>
-      <p>Backend engine & developer toolkit for crafting, benchmarking, and optimizing LLM prompts using Python, FastAPI, and Gemini.</p>
+      <p><strong>What it does:</strong> An AI playground that helps developers test, refine, and optimize AI prompts for better results.</p>
       <p>👉 <a href="https://github.com/harshit-911/PromptForge.ai"><strong>View Repository</strong></a></p>
     </td>
     <td width="50%" valign="top">
@@ -73,7 +73,7 @@
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
       </p>
-      <p>Natural language billing assistant that parses unstructured prompt instructions into structured invoices, PDF downloads, and email dispatch.</p>
+      <p><strong>What it does:</strong> An AI assistant that turns simple typed notes into professional PDF invoices and emails them to clients.</p>
       <p>👉 <a href="https://github.com/harshit-911/invoice-genie-final"><strong>View Repository</strong></a></p>
     </td>
   </tr>
@@ -85,7 +85,7 @@
         <img src="https://img.shields.io/badge/CodeMirror_6-1A1A1A?style=flat-square&logo=codefactor&logoColor=white" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       </p>
-      <p>High-performance web code editor built with CodeMirror 6, Vue 3 reactivity, Esbuild bundling, and VitePress documentation.</p>
+      <p><strong>What it does:</strong> A lightweight, distraction-free code editor built for quick editing and live code previews.</p>
       <p>👉 <a href="https://github.com/harshit-911/FocusAero"><strong>View Repository</strong></a></p>
     </td>
   </tr>
