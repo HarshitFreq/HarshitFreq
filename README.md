@@ -45,6 +45,18 @@
       <p>👉 <a href="https://github.com/harshit-911/ShieldSight.ai"><strong>View Repository</strong></a></p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">🎵 MP3Master</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+      </p>
+      <p>High-speed web application for audio/video extraction, batch music importing, and media stream processing powered by Next.js API routes.</p>
+      <p>👉 <a href="https://github.com/harshit-911/MP3Master"><strong>View Repository</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">🛠️ PromptForge.ai</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -54,8 +66,6 @@
       <p>Backend engine & developer toolkit for crafting, benchmarking, and optimizing LLM prompts using Python, FastAPI, and Gemini.</p>
       <p>👉 <a href="https://github.com/harshit-911/PromptForge.ai"><strong>View Repository</strong></a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🧾 InvoiceGenie</h3>
       <p align="center">
@@ -66,7 +76,9 @@
       <p>Natural language billing assistant that parses unstructured prompt instructions into structured invoices, PDF downloads, and email dispatch.</p>
       <p>👉 <a href="https://github.com/harshit-911/invoice-genie-final"><strong>View Repository</strong></a></p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
       <h3 align="center">⚡ FocusAero</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
