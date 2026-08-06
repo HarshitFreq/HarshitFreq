@@ -1,13 +1,13 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vcenter=true&random=false&width=600&lines=Hi+%F0%9F%A6%88%2C+I'm+Harshit!;Full-Stack+%26+AI+Engineer;Building+AI+Agents%2C+Extensions+%26+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vcenter=true&random=false&width=600&lines=Hi+%F0%9F%A6%88%2C+I'm+Harshit!;Software+Engineer;Building+AI+Agents%2C+Extensions+%26+Web+Apps" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <p align="center">
-    <strong>Full-Stack & AI Software Engineer</strong>
+    <strong>Software Engineer</strong>
   </p>
 
   <p align="center">
