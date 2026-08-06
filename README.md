@@ -82,10 +82,10 @@
       <h3 align="center">⚡ FocusAero</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Web_Audio_API-0055FF?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/YouTube_Player-FF0000?style=flat-square&logo=youtube&logoColor=white" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       </p>
-      <p><strong>What it does:</strong> A modern productivity web app that helps users maintain focus using customizable ambient soundscapes, Pomodoro timers, and a distraction-free workspace.</p>
+      <p><strong>What it does:</strong> A distraction-free study workspace where users can organize study materials and watch YouTube lectures without ads or recommendation clutter.</p>
       <p>👉 <a href="https://github.com/harshit-911/FocusAero"><strong>View Repository</strong></a></p>
     </td>
   </tr>
