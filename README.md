@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently Building**: **[ShieldSight.ai](https://github.com/harshit-911/ShieldSight.ai)** — AI web security browser extension using on-device ONNX models & OCR.
+- 🔭 **Currently Building**: **[ShieldSight.ai](https://github.com/harshit-911/ShieldSight.ai)** — Privacy-first Chrome extension for real-time family safety & content moderation.
 - 💼 **Looking For**: Software Engineering & AI Developer Internships.
 - ⚡ **Core Stack**: TypeScript, Next.js, Python (FastAPI), React, Tailwind CSS & LLM Integration (Gemini).
 
@@ -41,7 +41,7 @@
         <img src="https://img.shields.io/badge/ONNX_Web-005CED?style=flat-square&logo=onnx&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </p>
-      <p><strong>What it does:</strong> A browser extension that scans web pages in real-time to protect users from phishing scams and malicious links.</p>
+      <p><strong>What it does:</strong> A privacy-first browser extension that protects families and kids by automatically blurring adult content, graphic violence, and abusive language in real time.</p>
       <p>👉 <a href="https://github.com/harshit-911/ShieldSight.ai"><strong>View Repository</strong></a></p>
     </td>
     <td width="50%" valign="top">
