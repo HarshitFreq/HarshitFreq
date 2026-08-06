@@ -25,7 +25,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 **Currently Building**: **[ShieldSight.ai](https://github.com/harshit-911/ShieldSight.ai)** — Privacy-first Chrome extension for real-time family safety & content moderation.
-- 💼 **Looking For**: Software Engineering & AI Developer Internships.
+- 💼 **Looking For**: Dev Internships.
 - ⚡ **Core Stack**: TypeScript, Next.js, Python (FastAPI), React, Tailwind CSS & LLM Integration (Gemini).
 
 ---
