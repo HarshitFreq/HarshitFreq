@@ -49,18 +49,6 @@
       <p>👉 <a href="https://github.com/harshit-911/ShieldSight.ai"><strong>View Repository</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎵 VibeCheck</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_2.5_Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      </p>
-      <p>A "Liquid Glass" themed AI application analyzing visual aesthetics of photos to generate instant song recommendations and Gen-Z vibe evaluation metrics.</p>
-      <p>👉 <a href="https://github.com/harshit-911/VibeCheck"><strong>View Repository</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">🛠️ PromptForge.ai</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -69,16 +57,6 @@
       </p>
       <p>Developer toolkit and backend engine for crafting, benchmarking, and optimizing LLM prompts powered by Python, Pydantic, Jinja2 templates, and Gemini API.</p>
       <p>👉 <a href="https://github.com/harshit-911/PromptForge.ai"><strong>View Repository</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">👗 Outfit Generator</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/PLpgSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-      <p>Cross-platform desktop & web AI recommendation engine styled with retro 98.css, backed by Supabase PostgreSQL database functions and Gemini visual synthesis.</p>
-      <p>👉 <a href="https://github.com/harshit-911/outfit-generator"><strong>View Repository</strong></a></p>
     </td>
   </tr>
   <tr>
