@@ -25,8 +25,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 **Currently Building**: **[ShieldSight.ai](https://github.com/harshit-911/ShieldSight.ai)** — Privacy-first Chrome extension for real-time family safety & content moderation.
-- 💼 **Looking For**: Dev Internships.
-- ⚡ **Core Stack**: TypeScript, Next.js, Python (FastAPI), React, Tailwind CSS & LLM Integration (Gemini).
+- 💼 **Looking For**: Dev & DevOps Internships.
+- ⚡ **Core Stack & Interests**: TypeScript, Next.js, Python (FastAPI), React, DevOps & AI.
 
 ---
 
@@ -109,7 +109,7 @@
 | **Frontend** | Next.js, React, Vue.js, Tailwind CSS, Vite |
 | **Backend & AI** | FastAPI, Node.js, REST APIs, Google Gemini API, ONNX Runtime |
 | **AI Tools & Workflows** | Google Antigravity, Anthropic Claude, OpenAI ChatGPT |
-| **Tools & Cloud** | Git, GitHub Actions, Vercel, Supabase, VS Code, Vitest, Linux |
+| **DevOps, Tools & Cloud** | GitHub Actions, Docker, CI/CD, Git, Vercel, Supabase, Linux, VS Code, Vitest |
 
 </div>
 
