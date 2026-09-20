@@ -11,11 +11,11 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/harshit-911?tab=repositories">
-      <img src="https://img.shields.io/github/stars/harshit-911?style=flat-square&color=F59E0B&logo=github" alt="Stars"/>
+    <a href="https://github.com/HarshitFreq?tab=repositories">
+      <img src="https://img.shields.io/github/stars/HarshitFreq?style=flat-square&color=F59E0B&logo=github" alt="Stars"/>
     </a>
-    <a href="https://github.com/harshit-911">
-      <img src="https://img.shields.io/github/followers/harshit-911?style=flat-square&color=3B82F6&logo=github" alt="Followers"/>
+    <a href="https://github.com/HarshitFreq">
+      <img src="https://img.shields.io/github/followers/HarshitFreq?style=flat-square&color=3B82F6&logo=github" alt="Followers"/>
     </a>
   </p>
 </div>
@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently Building**: **[ShieldSight.ai](https://github.com/harshit-911/ShieldSight.ai)** — Privacy-first Chrome extension for real-time family safety & content moderation.
+- 🔭 **Currently Building**: **[ShieldSight.ai](https://github.com/HarshitFreq/ShieldSight.ai)** — Privacy-first Chrome extension for real-time family safety & content moderation.
 - 💼 **Looking For**: Dev & DevOps Internships.
 - ⚡ **Core Stack & Interests**: TypeScript, Next.js, Python (FastAPI), React, DevOps & AI.
 
@@ -42,7 +42,7 @@
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </p>
       <p><strong>What it does:</strong> A privacy-first browser extension that protects families and kids by automatically blurring adult content, graphic violence, and abusive language in real time.</p>
-      <p>👉 <a href="https://github.com/harshit-911/ShieldSight.ai"><strong>View Repository</strong></a></p>
+      <p>👉 <a href="https://github.com/HarshitFreq/ShieldSight.ai"><strong>View Repository</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎵 MP3Master</h3>
@@ -52,7 +52,7 @@
         <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white" />
       </p>
       <p><strong>What it does:</strong> A web tool that converts online videos into MP3 audio files and lets users download playlists in bulk.</p>
-      <p>👉 <a href="https://github.com/harshit-911/MP3Master"><strong>View Repository</strong></a></p>
+      <p>👉 <a href="https://github.com/HarshitFreq/MP3Master"><strong>View Repository</strong></a></p>
     </td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@
         <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" />
       </p>
       <p><strong>What it does:</strong> An AI playground that helps developers test, refine, and optimize AI prompts for better results.</p>
-      <p>👉 <a href="https://github.com/harshit-911/PromptForge.ai"><strong>View Repository</strong></a></p>
+      <p>👉 <a href="https://github.com/HarshitFreq/PromptForge.ai"><strong>View Repository</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧾 InvoiceGenie</h3>
@@ -74,7 +74,7 @@
         <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
       </p>
       <p><strong>What it does:</strong> An AI assistant that turns simple typed notes into professional PDF invoices and emails them to clients.</p>
-      <p>👉 <a href="https://github.com/harshit-911/invoice-genie-final"><strong>View Repository</strong></a></p>
+      <p>👉 <a href="https://github.com/HarshitFreq/invoice-genie-final"><strong>View Repository</strong></a></p>
     </td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       </p>
       <p><strong>What it does:</strong> A distraction-free study workspace where users can organize study materials and watch YouTube lectures without ads or recommendation clutter.</p>
-      <p>👉 <a href="https://github.com/harshit-911/FocusAero"><strong>View Repository</strong></a></p>
+      <p>👉 <a href="https://github.com/HarshitFreq/FocusAero"><strong>View Repository</strong></a></p>
     </td>
   </tr>
 </table>
@@ -118,7 +118,7 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/harshit-911">
+  <a href="https://github.com/HarshitFreq">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/harshitsahulink">
