@@ -9,7 +9,7 @@ Location: India | [LinkedIn](https://www.linkedin.com/in/harshitsahulink) | [Ema
 
 Computer Science student and software engineer focused on building low-latency web applications, cross-platform mobile systems, on-device AI tools, and embedded IoT devices. Experienced in architecting production-grade software with strict type safety, local-first state persistence, and clean API contracts.
 
-Actively seeking **Software Engineering, Mobile, and DevOps internships**.
+Actively seeking **Software Engineering and Mobile Development internships**.
 
 ---
 
@@ -20,7 +20,7 @@ Actively seeking **Software Engineering, Mobile, and DevOps internships**.
 - **Backend & APIs:** Node.js, Express, FastAPI, RESTful APIs, WebSockets
 - **Databases & Storage:** PostgreSQL, Supabase (Row-Level Security), SQLite (WAL Mode), Drizzle ORM, AsyncStorage
 - **Edge AI & Systems:** ONNX Runtime Web (Wasm/WebGL), Gemini API, ESP32, PlatformIO, Arduino
-- **DevOps & Infrastructure:** Docker, GitHub Actions (CI/CD), Git, Linux, Vercel, Vitest
+- **Tools & Platforms:** Docker, GitHub Actions (CI/CD), Git, Linux, Vercel, Vitest
 
 ---
 
